@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06191a75.css",
+    "main.js": "/static/js/main.f662a287.js",
+    "static/media/Home-Profile-Image.svg": "/static/media/Home-Profile-Image.4af45a2a0665435cc178d8dd9419f4c0.svg",
+    "static/media/PraveenShinde-CV.pdf": "/static/media/PraveenShinde-CV.719afd0c88176caa0465.pdf",
+    "static/media/TCS-logo.svg": "/static/media/TCS-logo.014535429e4675c90febec369dcf123b.svg",
+    "static/media/logos_postgresql.svg": "/static/media/logos_postgresql.faf7d859c96e66bf5bea551788fa9a81.svg",
+    "static/media/react.svg": "/static/media/react.5c6bc55a9ce03d3866b9e0fc89f9fa5f.svg",
+    "static/media/node.svg": "/static/media/node.5a0a4035c9fd116aa3b1094cf80085e5.svg",
+    "static/media/Python.svg": "/static/media/Python.cae3415091901056d6f9421b76b082e9.svg",
+    "static/media/Java.svg": "/static/media/Java.2f45dcff4b080408fe8ee7cb49dc552d.svg",
+    "static/media/Figma.svg": "/static/media/Figma.65b81cf1057988d49575deae79938c2e.svg",
+    "static/media/JavaScript.svg": "/static/media/JavaScript.88323609efa4eb86aa578f5969d8c370.svg",
+    "index.html": "/index.html",
+    "main.06191a75.css.map": "/static/css/main.06191a75.css.map",
+    "main.f662a287.js.map": "/static/js/main.f662a287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06191a75.css",
+    "static/js/main.f662a287.js"
+  ]
+}
